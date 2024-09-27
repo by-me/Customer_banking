@@ -49,6 +49,7 @@ Interest Earned on CD: $75.00
 ```
 
 ## File Structure
+```
 /Customer-Banking-Application
 │
 ├── Account.py              # Contains the Account class definition
@@ -57,4 +58,4 @@ Interest Earned on CD: $75.00
 ├── customer_banking.py      # Main file to run the application
 └── README.md                # Documentation file
 
-
+```
